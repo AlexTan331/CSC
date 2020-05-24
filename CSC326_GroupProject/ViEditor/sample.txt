@@ -1,0 +1,8 @@
+void main () {
+   int x;
+   int y;
+   cin >> x >> y;
+   cout << x * y;
+   cout<<x+y-y+x<<endl;
+   return 0;
+}

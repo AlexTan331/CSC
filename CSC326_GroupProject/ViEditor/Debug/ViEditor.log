@@ -1,0 +1,35 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Editor.cpp
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.h(46): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.inl(97): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.inl(175): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryTreeInterface.h(64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryTreeInterface.h(83): note: see reference to class template instantiation 'BinaryTreeInterface<ItemType>' being compiled
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryNodeTree.h(84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryNodeTree.h(103): note: see reference to class template instantiation 'BinaryNodeTree<ItemType>' being compiled
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryNodeTree.h(89): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryNodeTree.inl(295): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinaryNodeTree.inl(329): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.h(72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.h(90): note: see reference to class template instantiation 'BinarySearchTree<ItemType>' being compiled
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.h(73): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.h(77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.inl(226): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.inl(236): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\BinarySearchTree.inl(261): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+Editor.cpp(118): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+  main.cpp
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.h(39): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.h(46): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.inl(97): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\alext\onedrive\csc\vieditor\vieditor\LinkedList.inl(175): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  NotFoundException.cpp
+  Point.cpp
+  PrecondViolatedExcept.cpp
+  Snapshot.cpp
+  Generating Code...
+  ViEditor.vcxproj -> C:\Users\AlexT\OneDrive\CSC\ViEditor\Debug\ViEditor.exe
